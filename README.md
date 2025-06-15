@@ -2,7 +2,7 @@
 # Email-local
 Configurar correo local y enviar un mensaje de prueba. (webmail, procesos, redes --> subdominio = ct-procesos.digicom.com.gt, prueba@ct-procesos.digicom.com.gt)
 
-# CONFIGUARCION DE GMAIL LOCAL POR MEDIO DE POSTFIX 
+# CONFIGUARCION DE GMAIL LOCAL POR MEDIO DE POSTFIX  
 
 ## Paso 1: Instalación de Postfix 
 Para comenzar con la configuración de un servidor de correo, es necesario instalar Postfix, que es un agente de transferencia de correo (MTA). Postfix permite el envío y la recepción de correos electrónicos entre usuarios locales o externos, funcionando como la base del sistema de correo electrónico en servidores Linux.
